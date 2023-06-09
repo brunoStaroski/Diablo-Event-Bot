@@ -1,0 +1,22 @@
+{
+  "name": "diablo-event-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoStaroski/Diablo-Event-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoStaroski/Diablo-Event-Bot/issues"
+  },
+  "homepage": "https://github.com/brunoStaroski/Diablo-Event-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
